@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#A4303F', // Fundo preto
   },
-  title: {
+  title: {  
     fontSize: 28,
     color: '#84GF84', // Verde neon
     marginBottom: 20,
